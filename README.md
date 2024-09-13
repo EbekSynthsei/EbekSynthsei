@@ -1,6 +1,6 @@
 <h2> Hi, I’m @EbekSynthsei</h2>
 
-<p>I'm a simple guy with a passion for <i>Sound Design</i>, <i>Videogames</i> and little more.</p>
+<p>I'm a simple guy with a passion for <i>Sound Design</i>, <i>Videogames</i> and something more, like Calligraphy and Bonsais.</p>
  
  <br>
  
