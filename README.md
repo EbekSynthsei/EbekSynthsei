@@ -1,36 +1,48 @@
-<h2> Hi, I’m @EbekSynthsei</h2>
-
-<p>I'm a simple guy with a passion for <i>Sound Design</i>, <i>Videogames</i> and something more, like Calligraphy and Bonsais.</p>
- 
- <br>
- 
-<div>
-   <a href = "https://github.com/EbekSynthsei">
-     <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=EbekSynthsei&count_private=true&show_icons=true&theme=github_dark">
-   </a>
-  
-   <a href = "https://github.com/EbekSynthsei">
-     <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=EbekSynthsei&theme=github_dark">
-   </a>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋;I'm+@EbekSynthsei;Welcome+to+my+GitHub+profile!&center=true&size=30">
 </div>
-<br>
-<h4>To write about yourself is always a pain, so I'll redirect you to my <a href = "https://linktr.ee/EbekSynhtsei">linktree</a>, choose a direction and discover who I am by yourself.</h4>
 
-Don't spam me please, but <i>don't be shy to contact me</i> on whatever you wanna talk about.
+<h2 align="center">About Me 🎭</h2>
 
-If it's important send me a mail, I'll answer faster.
-<h3>Have a nice day!</h3>
+<p align="center">
+  I'm a passionate individual with a love for <strong>Sound Design</strong> 🎵, <strong>Videogames</strong> 🎮, <strong>Calligraphy</strong> ✒️, and <strong>Bonsais</strong> 🌳.
+</p>
 
+<h2 align="center">My GitHub Stats 📊</h2>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EbekSynthsei&count_private=true&show_icons=true&theme=tokyonight" alt="EbekSynthsei's GitHub Stats" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EbekSynthsei&layout=compact&theme=tokyonight" alt="Top Languages" height="170">
+</div>
 
+<h2 align="center">Connect with Me 🤝</h2>
 
+<p align="center">
+  Writing about oneself can be challenging, so I invite you to explore my <a href="https://linktr.ee/EbekSynhtsei">Linktree</a> and discover who I am for yourself!
+</p>
 
-<br>
-<i>PS: If you want to have a look to projects I collaborate with look also here!</i>
+<p align="center">
+  <i>Don't hesitate to reach out – I'm always open to interesting conversations!</i><br>
+  For urgent matters, email is the fastest way to get in touch.
+</p>
 
-FabioFlo/ProjectWork Repo ( https://github.com/FabioFlo/ProjectWork )
+<h3 align="center">Have a fantastic day! ✨</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FabioFlo&repo=ProjectWork)](https://github.com/FabioFlo/ProjectWork)
+<h2 align="center">Collaborative Projects 🤝</h2>
+
+<p align="center">
+  <i>Check out this project I'm collaborating on:</i>
+</p>
+
+<div align="center">
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FabioFlo&repo=ProjectWork&theme=tokyonight)](https://github.com/FabioFlo/ProjectWork)
+  
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=EbekSynthsei&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views">
+</div>
 
 <!---
 EbekSynthsei/EbekSynthsei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
